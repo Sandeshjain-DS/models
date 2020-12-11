@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images (8).jpg</filename>
+	<path>C:\Users\sandesh\Documents\models\Custom\visitingcard\images\images (8).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Business card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>20</ymin>
+			<xmax>177</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Business card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>118</ymin>
+			<xmax>175</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

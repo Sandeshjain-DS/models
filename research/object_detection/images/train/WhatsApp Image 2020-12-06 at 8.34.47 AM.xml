@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WhatsApp Image 2020-12-06 at 8.34.47 AM.jpeg</filename>
+	<path>C:\Users\sandesh\Documents\models\Custom\visitingcard\images\WhatsApp Image 2020-12-06 at 8.34.47 AM.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Business card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>238</ymin>
+			<xmax>1197</xmax>
+			<ymax>938</ymax>
+		</bndbox>
+	</object>
+</annotation>

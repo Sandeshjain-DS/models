@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>h67Vv_Ojq3kXP06jwLJxC5z9GE5_rON00R8oxi_cv6QhVhpxEuUQxlhyRH7oQh76_iGyRB6gH0eHZGVc2LRXbEZP4tvrSXx76RDr.png</filename>
+	<path>C:\Users\sandesh\Documents\models\Custom\visitingcard\images\h67Vv_Ojq3kXP06jwLJxC5z9GE5_rON00R8oxi_cv6QhVhpxEuUQxlhyRH7oQh76_iGyRB6gH0eHZGVc2LRXbEZP4tvrSXx76RDr.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>177</width>
+		<height>107</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Business card</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>177</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>
